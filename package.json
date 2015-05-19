@@ -1,0 +1,23 @@
+{
+  "name": "idle-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenokabe/idle-time.git"
+  },
+  "author": "Ken Okabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenokabe/idle-time/issues"
+  },
+  "homepage": "https://github.com/kenokabe/idle-time#readme",
+  "dependencies": {
+    "x11": "^1.0.3"
+  },
+  "devDependencies": {}
+}
